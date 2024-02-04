@@ -1,3 +1,6 @@
+>[NOTE]
+>Disfruta de la app
+
 # Online Store API in Python
 
 This Python API, developed with Flask and the Peewee ORM, emulates the functionality of a basic online store. It mimics both entities and business logic commonly found in an e-commerce setting.
