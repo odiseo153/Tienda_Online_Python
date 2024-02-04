@@ -1,5 +1,5 @@
 >[!NOTE]
->Disfruta de la app
+>Aun no e puesto las librerias que son necesarias
 
 # Online Store API in Python
 
